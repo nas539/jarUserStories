@@ -1,0 +1,13 @@
+Everyone in this group is an admin. We may all log in from time to time to see how many users
+we have aquired, answer and messages from users who may have a problem, and upload our own
+recipes.
+Today Ashley logs in because she has recieved an email from a user who noticed a very 
+inappropriate recipe from another user. She needs to switch to the admin menu first. She
+wants to verify the recipe, and if it is not appropriate she needs to delete the recipie and
+send a message to the user "Three strikes and your out!"
+She checks the recipe and sees that it does not follow the standards of Jar's recipies. So 
+she first needs to delete the recipie. She then notices that this particular user has posted 
+foul recipies more than twice. She needs to delete the user.
+Ashley's mom also just sent her a recipie for fudge she wants to share. She switches back to
+the regular users dashboard, and uploads the recipie.
+She then logs out.
