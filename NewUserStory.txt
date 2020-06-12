@@ -1,0 +1,34 @@
+USER STORY
+
+Wanda is tired of cooking the same thing for dinner every week.
+She gets on her computer and searches for recipes. She finds
+JarThis. She clicks on the REGISTER BUTTON and it takes her to a
+REGISTRATION PAGE. She enters her NAME and EMAIL ADDRESS writes a 
+short BIOGRAPHY since it only let her type 150 CHARACTERS. She
+then UPLOADED a PROFILE PICTURE. With that being done she pushes
+the SUBMIT BUTTON which told her the REGISTRATION WAS SUCCESSFUL
+and took her back to the homepage. 
+
+Wanda was very excited to start finding new recipes. She clicked 
+on the BROWSE RECIPES BUTTON that took her to a page of all kinds 
+of different recipes. There was a POULTY RECIPES BUTTON, BEEF 
+RECIPES BUTTON, SEAFOOD RECIPES BUTTON, VEGETARIAN RECIPES 
+BUTTON, and even a DESSERTS RECIPES BUTTON. After clicking on all
+of them and searching through many amazing recipes, Wanda found
+one she really wanted to try so she clicked on the EMPTY JAR ICON
+and downloaded it. She new the download was successful when the 
+JAR LID CLOSED AND THE JAR FILLED UP. Since she really liked this 
+recipe she decided to FOLLOW the author to see what other recipes 
+they had shared and perhaps will share in the future. After
+looking through a few more recipes, Wanda decides to LOGOUT and 
+start cooking.
+
+
+
+
+
+
+
+
+  
+
